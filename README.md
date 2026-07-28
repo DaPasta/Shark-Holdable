@@ -4,7 +4,7 @@ A simple Gorilla Tag mod that adds a small custom shark holdable to the game.
 
 ## Preview
 
-![Little Shark Holdable](images/shark-preview.png)
+![Shark Holdable](images/shark-preview.png)
 
 ## Features
 
