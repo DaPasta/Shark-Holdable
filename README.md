@@ -1,4 +1,4 @@
-# 🦈 Little Shark Holdable
+# 🦈 Shark Holdable
 
 A simple Gorilla Tag mod that adds a small custom shark holdable to the game.
 
